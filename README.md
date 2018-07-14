@@ -1,5 +1,6 @@
 # set_vim
-配置你的vim
+该项目为华丽配置你的vim
+
 配置后的效果如下图：
 
 ![image](https://github.com/zhangjunyi1225054736/set_vim/blob/new/result.png)
